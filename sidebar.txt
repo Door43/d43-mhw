@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mhw:home|Door43 (mhw)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mhw|d43-mhw repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mhw/archive/master.zip|d43-mhw.zip]]
+
+**Recent Changes**
+{{changes>ns = mhw}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mhw|Ethnologue data]]
+
